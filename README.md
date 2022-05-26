@@ -1,2 +1,2 @@
 # tetris
-tetris game in Python
+tetris game in Python for Proglib
