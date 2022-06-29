@@ -1,4 +1,4 @@
-# Tetris lite - код для туториала
+# Tetris lite - код туториала для Proglib
 
 Статья о процессе создания игры - [Пишем Тетрис на Python с помощью библиотеки Pygame](https://proglib.io/p/pishem-tetris-na-python-s-pomoshchyu-biblioteki-pygame-2022-05-30)
 
